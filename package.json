@@ -1,0 +1,31 @@
+{
+  "name": "7-10-class",
+  "version": "19.5.5",
+  "description": "Ini adalah website sekolah untuk kelas 7.10 pada periode tahun 2025/2026 oleh escanor developments",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EscanorDevelopments/7.10-Class.my.id.git"
+  },
+  "keywords": [
+    "Classroom",
+    "Website",
+    "Simple",
+    "Holo",
+    "hologaram",
+    "Responsive",
+    "Hover",
+    "EscanorDevelopments",
+    "Escanor",
+    "Diego"
+  ],
+  "author": "EscanorDevelopments",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EscanorDevelopments/7.10-Class.my.id/issues"
+  },
+  "homepage": "https://github.com/EscanorDevelopments/7.10-Class.my.id#readme"
+}
